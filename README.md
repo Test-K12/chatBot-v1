@@ -1,1 +1,1 @@
-# chstBot-v1
+# chatBot-v1
