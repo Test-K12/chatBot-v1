@@ -12,3 +12,5 @@ def handle_text(message):
     bot.send_message(message.chat.id, '' + message.text)
 # Запускаем бота
 bot.polling(none_stop=True, interval=0)
+sjdbfkjsdbf
+test
