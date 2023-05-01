@@ -1,6 +1,6 @@
 import telebot
 # Создаем экземпляр бота
-bot = telebot.TeleBot("6110468081:AAFnGmDP0LNlLfjThGv3l1LJ-8bYCYKeIxo")
+bot = telebot.TeleBot("тут твой токен")
 # Функция, обрабатывающая команду /start
 @bot.message_handler(commands=["start"])
 def start(m, res=False):
